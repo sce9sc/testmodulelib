@@ -1,8 +1,8 @@
 
 
-var test = function(v){
-	console.log('test module lib')
+var test1 = function(v){
+	console.log('this is test module ')
 }
 
 
-module.exports = {test:test};
+module.exports = {test:test1};
